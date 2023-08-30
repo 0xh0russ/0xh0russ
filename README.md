@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aly</h1>
-<h3 align="center">I like breaking software and helping people fix it.</h3>
-
 - 🔭 I’m currently working on **Setting up my technical blog.**
 
 - 🌱 I’m currently learning **penetration testing techniques through OffSec's PEN-200 course.**
