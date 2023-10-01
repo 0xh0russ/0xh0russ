@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on **digging through and understanding large open source projects.**
+- 🔭 I’m currently working on **manually reviewing code for open source projects**
 
 - 🌱 I’m currently learning **penetration testing techniques through OffSec's PEN-200 course.**
 
